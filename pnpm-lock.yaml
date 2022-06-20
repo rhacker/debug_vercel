@@ -7,28 +7,20 @@ importers:
       '@babel/core': ^7.0.0-0
       '@babel/runtime': ^7.0.0-0
       '@debug/shared': workspace:*
-      '@google-cloud/language': ^4.3.2
       '@types/node': ^17.0.36
       '@types/react': ^18.0.9
-      encoding: ^0.1.13
       esbuild: ^0.14.42
       esbuild-jest: ^0.5.0
       jest: ^28.1.0
       next: 12.1.6
       react: 18.1.0
       react-dom: 18.1.0
-      request: ^2.87.0
-      retry-request: 4.2.2
       typescript: ^4.7.2
     dependencies:
       '@debug/shared': link:../shared
-      '@google-cloud/language': 4.3.2_encoding@0.1.13
-      encoding: 0.1.13
       next: 12.1.6_5ovelu635kdjiiodz74uabvzfu
       react: 18.1.0
       react-dom: 18.1.0_react@18.1.0
-      request: 2.88.2
-      retry-request: 4.2.2
     devDependencies:
       '@babel/core': 7.18.5
       '@babel/runtime': 7.18.3
