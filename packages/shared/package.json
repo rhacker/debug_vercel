@@ -1,0 +1,17 @@
+{
+  "name": "@debug/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/language": "^4.3.2",
+    "encoding": "^0.1.13",
+    "request": "^2.87.0",
+    "retry-request": "4.2.2"
+  }
+}
